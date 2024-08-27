@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganevomorf&label=Profile%20views&color=0e75b6&style=flat" alt="gaganevomorf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gagancodes99&label=Profile%20views&color=0e75b6&style=flat" alt="gagancodes99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaganevomorf" alt="gaganevomorf" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagancodes99" alt="gagancodes99" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,20 +15,20 @@
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganevomorf&layout=compact&theme=" alt=gaganevomorf />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagancodes99&layout=compact&theme=" alt=gagancodes99 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gaganevomorf&show_icons=true&locale=en&theme=default" alt="gaganevomorf" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gagancodes99&show_icons=true&locale=en&theme=default" alt="gagancodes99" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gaganevomorf&theme=" alt="gaganevomorf" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gagancodes99&theme=" alt="gagancodes99" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/gaganevomorf">
+<a href="https://github.com/gagancodes99">
   <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaganevomorf&theme=github" height="180em" />
   </div>
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaganevomorf&theme=github" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gagancodes99&theme=github" height="180em" />
 </div>
 
 
