@@ -25,7 +25,7 @@
 <div align="center">
 <a href="https://github.com/gagancodes99">
   <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaganevomorf&theme=github" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gagancodes99&theme=github" height="180em" />
   </div>
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gagancodes99&theme=github" height="180em" />
@@ -34,4 +34,4 @@
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gaganevomorf&theme=github-compact"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gagancodes99&theme=github-compact"/>
